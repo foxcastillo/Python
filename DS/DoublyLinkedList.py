@@ -1,3 +1,6 @@
+# Edgar Castillo / Github: https://github.com/hellocastillo
+# Copyright (c) 2021 Edgar Castillo
+
 class DoublyLinkedList:
 
     def __init__ (self, r = None):

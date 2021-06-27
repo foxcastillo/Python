@@ -1,6 +1,9 @@
-# Linked List
+# Edgar Castillo / Github: https://github.com/hellocastillo
+# Copyright (c) 2021 Edgar Castillo
 
+# Linked List
 # Node Class
+
 class Node:
 
     def __init__(self, d, n=None, p=None):

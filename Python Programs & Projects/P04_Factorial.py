@@ -1,5 +1,5 @@
-# Edgar Barrera / Github: https://github.com/EdgarCastillo101/EdgarCastillo101
-# Copyright (c) 2021 Edgar Barrera
+# Edgar Castillo / Github: https://github.com/hellocastillo
+# Copyright (c) 2021 Edgar Castillo
 
 # This program finds the favtorial of the specified numbers
 # For example, factorial of 5 = 5*4*3*2*1 = 120

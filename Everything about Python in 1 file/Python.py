@@ -1,5 +1,6 @@
 # Edgar Castillo / Github: https://github.com/hellocastillo
 # Copyright (c) 2021 Edgar Castillo
+
 """
 Introduction to Python
 to print, put text inside single or double quotes, inside parantheses.

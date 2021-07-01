@@ -1,3 +1,6 @@
+# Edgar Barrera / Github: https://github.com/EdgarCastillo101/EdgarCastillo101
+# Copyright (c) 2021 Edgar Barrera
+
 import random
 
 # get values within a range.

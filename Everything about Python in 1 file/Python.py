@@ -488,7 +488,6 @@ def cuber(num):
 	num_cubed = num * num * num
 	return num_cubed
 
-
 # to call the function, and pass in 5:
 cuber(5)
 
@@ -499,18 +498,15 @@ print(x, x_cubed)
 
 # you can set default values for parameters
 
-
 def cuber(num=2):
 	num_cubed = num * num * num
 	return num_cubed
-
 
 print(cuber())		# uses the default 2
 print(cuber(3))		# 3 overrides the default
 
 # you can pass in multiple values, and return multiple values
 # but order is important
-
 
 def solve_triangle(base, height, side1, side2, side3):
 	area = base * height / 2
